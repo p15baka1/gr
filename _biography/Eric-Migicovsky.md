@@ -5,7 +5,7 @@ caption: "Eric Migicovsky is the original founder of Pebble, which became the mo
 categories:
   - biography
   - definition
-  tags:
+tags:
   - Eric Migicovsky
   - Pebble
   - Fitbit
